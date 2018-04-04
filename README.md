@@ -5,6 +5,9 @@ Task has been implemented using GoF Composite design pattern -> [link](https://w
 ## Result
 [![Result](https://image.ibb.co/fZAMXH/demo.png)](https://image.ibb.co/fZAMXH/demo.png)
 
+## Diagram
+[![Diagram](https://image.ibb.co/hGwfcH/uml.png)](https://image.ibb.co/hGwfcH/uml.png)
+
 ## Task description
 The exercise is printing a categories tree to the page (with unlimited hierarchy) in two different ways:
 
